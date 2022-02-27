@@ -2,9 +2,9 @@
 
 ## Find and list houses for sale or for rent.
 
-### I have built this site for my wife, for a family-owned real estate company called "Bismuth Real Estate"
+### I have built this site for my wife family, for a family-owned real estate company called "Bismuth Real Estate"
 
-[link for a demo](bismuth-house-marketplace.vercel.app)
+[link for a demo](https://bismuth-house-marketplace.vercel.app/)
 
 This is React / Firebase v9 project
 
