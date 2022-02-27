@@ -96,6 +96,9 @@ function Category() {
   return (
     <div className='category'>
       <header>
+        <h1 className='pageHeader' style={{ color: 'red' }}>
+          Bismuth House Marketplece
+        </h1>
         <p className='pageHeader'>
           {params.categoryName === 'rent'
             ? 'Places for rent'
